@@ -1,0 +1,17 @@
+{
+  "name": "wat-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.28.5"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
